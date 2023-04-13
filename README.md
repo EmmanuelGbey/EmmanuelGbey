@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuelGbey
-- 👀 I’m interested in Autonomous Vehicle Engineering solutions using AI.
-- 🌱 I’m currently learning python and C/C++
-- 💞️ I’m looking to collaborate on perception algorithms.
+- 👀 I’m interested in Shared Autonomous Vehicle (SAV) for FMLM connectivity in public transport, transport demand modelling, traffic and transport engineering.
+- 🌱 I’m currently learning python, JAVA and C/C++
+- 💞️ I’m looking to collaborate on developing MaaS and SAV algorithms.
 - 📫 Kindly reach me through: gbey.emman@gmail.com
 
 <!---
